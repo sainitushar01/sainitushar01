@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sainitushar01
 - 👀 I’m interested in computer programming and web technologies
 - 🌱 I’m currently learning computer science
-- 💞️ I’m  interested inabove mentioned fields
+- 💞️ I’m  interested in above mentioned fields
 - 📫 https://www.linkedin.com/in/tushar-saini-0601301a8/
 
 <!---
