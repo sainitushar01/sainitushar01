@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sainitushar01
+- 👋 Hi, I’m Tushar Saini
 - 👀 I’m interested in computer programming and web technologies
-- 🌱 I’m currently learning computer science
-- 💞️ I’m  interested in above mentioned fields
+- 🌱 I’m currently Persuing BTECH from BIT Mesra
 - 📫 https://www.linkedin.com/in/tushar-saini-0601301a8/
 
 <!---
