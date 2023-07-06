@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tushar Saini
 - 👀 I’m interested in computer programming and web technologies
-- 🌱 I’m currently Persuing BTECH from BIT Mesra
+- 🌱 Software Engineer at Niyo
 - 📫 https://www.linkedin.com/in/tushar-saini-0601301a8/
 
 <!---
